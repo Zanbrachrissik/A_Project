@@ -15,3 +15,9 @@ Tick all of the options except "Target Occluded Devices" and "Enable Sharing Ser
 https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/GettingStarted.md
 
 Make sure every scene processed like that. 
+
+## APP文件夹里的sln文件
+只显示了鼓
+
+## APP2文件夹里的sln文件
+根据图片显示鼓槌
