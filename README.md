@@ -6,16 +6,12 @@ Install git lfs otherwise you will not get large files like textures when you pu
 
 https://help.github.com/articles/installing-git-large-file-storage/
 
+Please do the edits on your own branches and I will do the merge at last! 
+
 ## Setup on clone
 
-### First
+Tick all of the options except "Target Occluded Devices" and "Enable Sharing Services" in Mixed Reality Toolkit -> Configure -> Apply Mixed Project Settings then Apply. And in Apply Mixed Reality Scene Settings tick the first 4 options then Apply. Deploy the device in Mixed Reality Toolkit -> Build Window. 
 
-If you do not already have it, download and install iOS or Android build tools for Unity.
+https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/GettingStarted.md
 
-Open project with Unity, then when it is opened go to File -> Build Settings. Select iOS or Android from platform list and click "switch platform" in bottom left. 
-
-Exit that window and in the game view you should change from "free aspect" to 1920x1080 Portait. Should be one of the first options. If we all develop with this preset we shouldn't run into bad scaling issues early. 
-
-### Second
-
-Make sure both Combat and Explore are in file -> build settings
+Make sure every scene processed like that. 
