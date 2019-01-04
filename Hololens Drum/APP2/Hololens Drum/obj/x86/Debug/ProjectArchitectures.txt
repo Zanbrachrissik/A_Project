@@ -1,0 +1,2 @@
+E:\kakek\Documents\Unity\Hololens Drum\APP2\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\kakek\Documents\Unity\Hololens Drum\APP2\Hololens Drum\Hololens Drum.csproj;x86
